@@ -55,7 +55,7 @@ Hiện tại thì cách khả quan nhất là cách 2.
     * Tốc độ quay cao: Xe dừng lại để sửa góc lâu hơi vì quán tính lơn.
     * Tốc độ quay chậm: Tốc độ sửa góc chậm.
 
-3. Camera không ổn định 
+3. Camera không ổn định:   
 Trong lúc di chuyển, các vệt sáng lóa hoặc dị vật của mặt đường có thể làm UGOT nhận dạng sai loại đường (ví dụ đường thẳng nhận thành ngã 3, ngã 4 và ngược lại).  
 - Hướng giải quyết (chưa thử): UGOT chỉ nhận loại đường khi nó xuất hiện trong một khoảng thời gian (interval), nếu thời gian xuất hiện của loại đường bé hơn interval thì ta không nhận (hay ta coi nó là một sai số của camera).  
 - Nhược điểm: Thời gian xử lý sẽ lâu hơn.  
