@@ -11,15 +11,15 @@
 
 <div style="text-align: center;">
   <div style="display: inline-block; margin: 10px;">
-    <img src="images/A_1.jpg" alt="Image 1" width="150" />
+    <img src="Images/A_1.jpg" alt="Image 1" width="150" />
     <p style="text-align: center;">Trước khi nhận diện được giao điểm</p>
   </div>
   <div style="display: inline-block; margin: 10px;">
-    <img src="images/A_2.jpg" alt="Image 2" width="150" />
+    <img src="Images/A_2.jpg" alt="Image 2" width="150" />
     <p style="text-align: center;">Khi nhận diện được giao điểm</p>
   </div>
   <div style="display: inline-block; margin: 10px;">
-    <img src="images/A_3.jpg" alt="Image 3" width="150" />
+    <img src="Images/A_3.jpg" alt="Image 3" width="150" />
     <p style="text-align: center;">Khi kết thúc nhận diện được giao điểm</p>
   </div>
 </div>
@@ -29,7 +29,7 @@ Ta có thể dễ dàng nhận ra rằng khoảng cách mà UGOT bắt đầu nh
 
 <div style="text-align: center;">
   <div style="display: inline-block; margin: 10px;">
-    <img src="images/A_4.jpg" alt="Image 4" width="150" />
+    <img src="Images/A_4.jpg" alt="Image 4" width="150" />
     <p style="text-align: center;">Vị trí của UGOT sau khi kết thúc nhận diện giao điểm</p>
   </div>
   
